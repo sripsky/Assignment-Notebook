@@ -16,6 +16,7 @@
 		A4CAFB1023D0C93A00134AB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4CAFB0E23D0C93A00134AB3 /* LaunchScreen.storyboard */; };
 		A4CAFB1B23D0C93B00134AB3 /* Assignment_NotebookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4CAFB1A23D0C93B00134AB3 /* Assignment_NotebookTests.swift */; };
 		A4CAFB2623D0C93B00134AB3 /* Assignment_NotebookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4CAFB2523D0C93B00134AB3 /* Assignment_NotebookUITests.swift */; };
+		A4CAFB3423D7604400134AB3 /* Assignments.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4CAFB3323D7604400134AB3 /* Assignments.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A4CAFB2123D0C93B00134AB3 /* Assignment NotebookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Assignment NotebookUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4CAFB2523D0C93B00134AB3 /* Assignment_NotebookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_NotebookUITests.swift; sourceTree = "<group>"; };
 		A4CAFB2723D0C93B00134AB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A4CAFB3323D7604400134AB3 /* Assignments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignments.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		A4CAFAF523D0C93100134AB3 = {
 			isa = PBXGroup;
 			children = (
+				A4CAFB3323D7604400134AB3 /* Assignments.swift */,
 				A4CAFB0023D0C93200134AB3 /* Assignment Notebook */,
 				A4CAFB1923D0C93B00134AB3 /* Assignment NotebookTests */,
 				A4CAFB2423D0C93B00134AB3 /* Assignment NotebookUITests */,
@@ -265,6 +268,7 @@
 				A4CAFB0223D0C93200134AB3 /* AppDelegate.swift in Sources */,
 				A4CAFB0423D0C93200134AB3 /* SceneDelegate.swift in Sources */,
 				A4CAFB0623D0C93200134AB3 /* MasterViewController.swift in Sources */,
+				A4CAFB3423D7604400134AB3 /* Assignments.swift in Sources */,
 				A4CAFB0823D0C93200134AB3 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
